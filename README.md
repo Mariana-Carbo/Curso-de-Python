@@ -2,6 +2,8 @@
 
 
 12/06- Día 1:
+
+
 01 - Python Notebook: Primer Código en Python. Definición de Bloques.Tipos de objetos en Python. Ejercicios varios: Expresiones y Variables en Python.
 
 
