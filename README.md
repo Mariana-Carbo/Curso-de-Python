@@ -20,3 +20,17 @@
 
 
 04 - Python Notebook: Ejercicios sobre biblibliotecas Pandas y Numpys. Vimos varias funciones/variables: modificar columnas, filas, empty, nulos, loc, drop.
+
+14/06 - Día 3: 
+
+04 - Python Notebook: Ejercicios de Panda y repetidos este día.
+
+
+Prophet: predicciones del valor de bitcoin y otros valores de la bolsa. Ejemplo con Tesla y demas.
+
+
+06 - Bucles: funciòn "for". Bucle infinito. Continuar. Break. Iterar. Genenarar secuencias de números. 
+BUcles anidados.
+
+
+Spacex: EDA viwth Data Visualizaciones.
