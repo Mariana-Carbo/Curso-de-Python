@@ -34,3 +34,11 @@ BUcles anidados.
 
 
 Spacex: EDA viwth Data Visualizaciones.
+
+
+15/06 Día 4:
+
+Funciones: Definimos función. Argumentos y parametros. Función "def", "return", "none", "booleanos".
+
+Series: ejercicios de bibliotecas. Panda y Numpy. Listas, Series, Diccionarios, Biblitoecas. Calculos aritmetricos.
+
